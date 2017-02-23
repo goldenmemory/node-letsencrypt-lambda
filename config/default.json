@@ -1,0 +1,13 @@
+{
+  "s3-account-bucket": "goldenmemory",
+  "s3-cert-bucket": "goldenmemory",
+  "s3-folder": "certs/local",
+  "acme-dns-retry": 300,
+  "acme-dns-retry-delay-ms": 20000,
+  "acme-domains": ["api.local.gm.chatops.in"],
+  "acme-hostedzone": "local.gm.chatops.in",
+  "acme-account-file": "acme-account-file",
+  "acme-account-email": "admin@chatops.in",
+  "acme-account-key-bits": 2048,
+  "acme-directory-url": "https://acme-v01.api.letsencrypt.org"
+}
