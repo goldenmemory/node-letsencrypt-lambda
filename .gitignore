@@ -39,5 +39,8 @@ jspm_packages
 .node_repl_history
 
 .idea
+<<<<<<< HEAD
 .vscode
 *.lock
+=======
+>>>>>>> b11e779e5987cc856be98b0fe8588f3b63bfa5c7
